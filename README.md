@@ -46,3 +46,13 @@ This system is useful in scenarios where hardware constraints prevent the use of
 - `DeepAnything` 
 
 ---
+
+## 🖼️ Output Example (Visual)
+
+Below is a sample of the OCR result shown directly over the input image, highlighting the recognized text areas:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ddd22d99-4567-490c-a9c5-7680ab651843" alt="OCR Output Sample" width="700"/>
+  <p><em>This image shows how the algorithm inferred and segmented objects from the original image.</em></p>
+</div>
+
