@@ -1,7 +1,7 @@
 # 🧠 DEPTH-ESTIMATION
 
 <p align="justify">
-This project implements a **depth estimation and segmentation pipeline** capable of analyzing a single RGB image and producing both a **dense depth map** and **object segmentation masks** based on relative distances. The model uses **DeepAnything**, a state-of-the-art deep learning model for visual understanding, and applies a **dynamic thresholding algorithm** to segment objects according to their depth in the scene.
+This project implements a <strong>depth estimation and segmentation pipeline</strong> capable of analyzing a single RGB image and producing both a <strong>dense depth map</strong> and <strong>object segmentation masks</strong> based on relative distances. The model uses <strong>DeepAnything</strong>, a state-of-the-art deep learning model for visual understanding, and applies a <strong>dynamic thresholding algorithm</strong> to segment objects according to their depth in the scene.
 </p>
 
 ---
